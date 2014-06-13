@@ -95,3 +95,12 @@ body {
   }
 }
 
+.score-result {
+  min-height:80px;
+}
+.score-picture {
+  float:left;
+}
+.score-title {
+  margin-left:110px;
+}
